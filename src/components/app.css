@@ -1,0 +1,16 @@
+.farsi{
+    padding: 20px;
+    color: rgb(250, 245, 245);
+    background-color: brown;
+    margin: 5px;
+}
+.english{
+    padding: 20px;
+    background-color: blueviolet;
+    color: white;
+    margin: 5px;
+}
+.select{
+    text-align: center;
+    padding: 20px;
+}
